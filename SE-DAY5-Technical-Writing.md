@@ -2,7 +2,7 @@
 
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
 
-Understanding your audience's expertise level is essential in determining how to present technical information. For **tech experts**, you can use more industry-specific terminology, delve into detailed explanations, and assume familiarity with the concepts. For **regular folks**, it's important to simplify the language, avoid jargon, and provide more background information or analogies. This ensures that the content is accessible and meaningful to everyone, regardless of their technical expertise.
+Understanding audience's expertise level is essential in determining how to present technical information. For **tech experts**, one can use more industry-specific terminology, delve into detailed explanations, and assume familiarity with the concepts. For **regular folks**, it's important to simplify the language, avoid jargon, and provide more background information or analogies. This ensures that the content is accessible and meaningful to everyone, regardless of their technical expertise.
 
 ## 2. What are some strategies to tailor your content to different audience types?
 
